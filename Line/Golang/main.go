@@ -1,3 +1,7 @@
+// Author: @1chooo (Hugo ChunHo Lin)
+// Created Date: 2023/09/27
+// Version: v0.0.1
+
 package main
 
 import (
